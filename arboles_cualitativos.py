@@ -6,7 +6,7 @@
       
 """
 
-__author__ = "Giron Leon"
+__author__ = "Giron Leon Gibran"
 __date__ = "enero 2025"
 
 
