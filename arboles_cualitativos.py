@@ -7,7 +7,7 @@
 """
 
 __author__ = "Giron Leon Gibran"
-__date__ = "enero 2025"
+__date__ = "Febrero 2026"
 
 
 import math
